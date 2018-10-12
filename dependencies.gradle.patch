@@ -1,0 +1,4 @@
+118c118
+<             uiautomator          : "com.android.support.test.uiautomator:uiautomator-v18:2.0.0",
+---
+>             uiautomator          : "com.android.support.test.uiautomator:uiautomator-v18:2.1.3",
