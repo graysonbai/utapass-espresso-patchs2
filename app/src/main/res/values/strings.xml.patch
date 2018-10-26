@@ -1,0 +1,4 @@
+495c495
+<     <string name="invalid_system_time">Something is wrong. Please check that "Automatic date &amp; time" in phone's Settings is ON.</string>
+---
+>     <string name="invalid_system_time">Something is wrong. Please check that "Automatic date &amp; time" in phone\'s Settings is ON.</string>
