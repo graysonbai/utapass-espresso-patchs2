@@ -1,4 +1,0 @@
-11c11
-<             abiFilters 'x86', 'armeabi', 'armeabi-v7a'
----
->             abiFilters 'x86', 'armeabi-v7a'
